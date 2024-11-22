@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @juinnlau2
-- 👋 [My Personal Portfolio](https://www.growtopiagame.online/)
-- 👀 I’m interested in Python Scrpting
-- Future Goal Stack: MERN STACK
-- 🌱 Stack: Python, C++, React Native, Java, PHP, JQUERY, Laravel, FAST API....
-- ⚙️ Tools: GIT, DOCKER, HTTP DEBUGGER, POSTMAN, WIRESHARK
+- 👋 Hi, I’m @juinnlau2 from Malaysia. I currently work as a full-stack PHP developer.
+- 👋 [My Personal Portfolio](https://www.growtopiagame.online/)  [My Software Team](https://www.jotdev.com/)
+- 👀 I’m passionate about Python scripting and reverse engineering for web applications.
 
-- 💞️ I’m looking to collaborate on any project
+- 🏢 Future Goals: Transitioning to the MERN Stack
+- 🌱 Current Tech Stack: Python, C++, React Native, Java, PHP, jQuery, Laravel, FastAPI.
+- ⚙️ Learning Objectives: Exploring mobile native app reverse engineering and memory hacking using Cheat Engine.
+
+- 💞️ Open to collaboration on any exciting project!
 - 📫 How to reach me [juinnlau@gmail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 juinnlau2/juinnlau2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
