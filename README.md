@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juinnlau2" alt="juinnlau2" /></a> </p>
 
-- 🔭 I’m currently working as **full stack php developer**
+- 🔭 I’m currently working as **full stack php reactjs developer**
 
 - 🌱 I’m currently learning **mobile native app reverse engineering and memory hacking using Cheat Engine.**
 
