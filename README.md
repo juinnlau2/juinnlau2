@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **any scripting project**
 
-- 👨‍💻 All of my projects are available at [jotdev.com/project](https://jotdev.com/project)
-
 - 📫 How to reach me **Discord: power0068**
 
 
